@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Configuration</title>
+</head>
+<body>
+    <h1>This is the configuration</h1>
+    <p>Here's a secret token: <strong>REMOVED</strong></p>
+    <p>Admin email: <strong>REMOVED</strong></p>
+</body>
+</html>
